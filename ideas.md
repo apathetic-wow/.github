@@ -28,6 +28,8 @@
   - Disable Barber and xMog on Login
 - Bags
   - Hide reagent bag UI unless empty / popout
+- Key Bindings
+  - Important key bind reminders
 - Addons
   - Better default settings for common addons
 
