@@ -6,6 +6,8 @@
 - Progress Bars
   - Mini XP/Rep Bar with % overlay
   - Hide XP/Rep Bar when max level
+- Menu
+  - Hide dot on WoW Shop
 - Shops
   - Only show used currencies (midnight crafting shops show all)
 - Crafting Orders
