@@ -41,6 +41,7 @@
 - reimport talent tree when leveling
 - Progress reputation bars (that take alts into account)
 - Target lowest HP mob (critters?) for Prey
+- Party tab targetting that only selects something agro'd or a party member has targeted?
 
 ## Chat
 - De-spam
