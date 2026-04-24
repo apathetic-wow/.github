@@ -61,6 +61,7 @@
 - smart quest pickup
 - next activity to progress a character
 - heirloom recommendations (which version, what enchants)
+- bag upgrade calculator
 
 ## Cosmetics
 - Smart Mounts
