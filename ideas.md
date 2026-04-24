@@ -33,6 +33,9 @@
 - Cooldown Manager
   - Minimal cooldowns on what is actionable SBA
 
+## Profiles
+- Saved profiles for global, per class, per race, per character
+
 ## Milestones
 - Quests
   - Chapters
