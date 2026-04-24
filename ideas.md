@@ -26,6 +26,8 @@
   - Better visual (but simple) of mouse cursor
 - Map
   - Disable Barber and xMog on Login
+- Bags
+  - Hide reagent bag UI unless empty / popout
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
