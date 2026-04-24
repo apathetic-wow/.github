@@ -28,6 +28,8 @@
   - Disable Barber and xMog on Login
 - Bags
   - Hide reagent bag UI unless empty / popout
+- Addons
+  - Better default settings for common addons
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
@@ -66,6 +68,7 @@
 - next activity to progress a character
 - heirloom recommendations (which version, what enchants)
 - bag upgrade calculator
+- universal questing addon that pulls route data from other addons
 
 ## Radar
 - Blown up movable semi-transparent map for herbalism / mining
