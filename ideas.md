@@ -60,6 +60,8 @@
 - Professions
 - Classes
 - Races
+- Gold Purchases (overlap)
+- Reputations
 
 ## Journey
 - How to get somewhere (by expansion, quest, etc)
@@ -83,7 +85,8 @@
 - Personalization option quests
 
 ## Tooltips
-- What is this item for?
+- What is this item for in my bags?
+- What is this currency for?
 
 ## GameSim
 - In-game simming, esp healing
