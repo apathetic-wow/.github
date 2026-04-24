@@ -37,6 +37,7 @@
   - display pointless interupts differently with severity
   - only voice agro if in party with tank and you're not tank
 - Movement speedometer + cooldowns + flight helper
+- Boss Tip Helper Explainer
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
