@@ -60,6 +60,7 @@
 - smart quest drop / grouping
 - smart quest pickup
 - next activity to progress a character
+- heirloom recommendations
 
 ## Cosmetics
 - Smart Mounts
