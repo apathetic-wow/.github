@@ -24,6 +24,8 @@
 - Combat
   - Better visual of tab targetting
   - Better visual (but simple) of mouse cursor
+- Map
+  - Disable Barber and xMog on Login
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
@@ -62,6 +64,9 @@
 - next activity to progress a character
 - heirloom recommendations (which version, what enchants)
 - bag upgrade calculator
+
+## Radar
+- Blown up movable semi-transparent map for herbalism / mining
 
 ## Cosmetics
 - Smart Mounts
