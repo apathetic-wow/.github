@@ -36,6 +36,7 @@
   - Don't voice for pointless interupts
   - display pointless interupts differently with severity
   - only voice agro if in party with tank and you're not tank
+- Movement speedometer + cooldowns
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
