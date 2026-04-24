@@ -38,6 +38,7 @@
   - only voice agro if in party with tank and you're not tank
 - Movement speedometer + cooldowns + flight helper
 - Boss Tip Helper Explainer
+- reimport talent tree when leveling
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
