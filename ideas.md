@@ -57,9 +57,16 @@
 - How to get somewhere (by expansion, quest, etc)
 - How to find a shop without consulting a guard
 - in-game quest tips
+- smart quest drop / grouping
+- smart quest pickup
+- next activity to progress a character
 
 ## Cosmetics
 - Smart Mounts
 - Mounts with Jobs
 - Pets with Jobs
 - Toys function categories
+- Personalization option quests
+
+## Tooltips
+- What is this item for?
