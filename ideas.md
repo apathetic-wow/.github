@@ -40,6 +40,7 @@
 - Boss Tip Helper Explainer
 - reimport talent tree when leveling
 - Progress reputation bars (that take alts into account)
+- Target lowest HP mob (critters?) for Prey
 
 ## Chat
 - De-spam
