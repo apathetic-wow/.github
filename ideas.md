@@ -82,3 +82,10 @@
 
 ## GameSim
 - In-game simming, esp healing
+
+## Editor
+- WYSIWYG visual wow UI editor out of game
+- integrate current API and lua version
+- examples and easy UI drag and drop components
+- component themes
+- like shadcn you own the component
