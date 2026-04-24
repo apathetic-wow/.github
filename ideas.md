@@ -40,6 +40,7 @@
   - Minimal actions based on what is actionable SBA
 - Cooldown Manager
   - Minimal cooldowns on what is actionable SBA
+- Buff button that uses whatever buff items you have, recommends some for level
 
 ## Profiles
 - Saved profiles for global, per class, per race, per character
