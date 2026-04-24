@@ -39,6 +39,11 @@
 - Movement speedometer + cooldowns + flight helper
 - Boss Tip Helper Explainer
 - reimport talent tree when leveling
+- Progress reputation bars (that take alts into account)
+
+## Chat
+- De-spam
+- Automatic Tabs
 
 ## SBA
 - Buffs (top right / nameplates / unit frames):
