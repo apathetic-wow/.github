@@ -70,3 +70,6 @@
 
 ## Tooltips
 - What is this item for?
+
+## GameSim
+- In-game simming, esp healing
