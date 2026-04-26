@@ -46,6 +46,7 @@
 - chromie and town portals arent' clear what expansion they go to, same with adventure board
 - map doesn't show quests when zoomed out
 - crafting orders should default to learned recipes only
+- addon recommendations
 
 ## Chat
 - De-spam
