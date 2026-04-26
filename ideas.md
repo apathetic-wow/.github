@@ -43,6 +43,7 @@
 - Target lowest HP mob (critters?) for Prey
 - Party tab targetting that only selects something agro'd or a party member has targeted?
 - Target finder, keeps looking for a target, lets you easily mark it and shows in what direction it is?
+- chromie and town portals arent' clear what expansion they go to, same with adventure board
 
 ## Chat
 - De-spam
