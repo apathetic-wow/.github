@@ -47,6 +47,7 @@
 - map doesn't show quests when zoomed out
 - crafting orders should default to learned recipes only
 - addon recommendations
+- despam "there are too many errors in your UI"
 
 ## Chat
 - De-spam
