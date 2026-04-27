@@ -49,6 +49,7 @@
 - addon recommendations
 - despam "there are too many errors in your UI"
 - withdraw or deposit from banks should let you max out instead of break on too high an amount
+- default mounts based on faction, class, race, zone
 
 ## Chat
 - De-spam
