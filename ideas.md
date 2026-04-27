@@ -48,6 +48,7 @@
 - crafting orders should default to learned recipes only
 - addon recommendations
 - despam "there are too many errors in your UI"
+- withdraw or deposit from banks should let you max out instead of break on too high an amount
 
 ## Chat
 - De-spam
