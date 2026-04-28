@@ -112,6 +112,8 @@
 - What is this item for in my bags?
 - What is this currency for?
 
+## Better Defaults
+
 ## GameSim
 - In-game simming, esp healing
 
