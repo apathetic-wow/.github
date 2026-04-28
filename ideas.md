@@ -51,6 +51,7 @@
 - withdraw or deposit from banks should let you max out instead of break on too high an amount
 - default mounts based on faction, class, race, zone
 - hide RAF rewards excep on weekly basis
+- hunter target marker often conflicts with custom nameplates
 
 ## Chat
 - De-spam
