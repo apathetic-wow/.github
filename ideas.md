@@ -52,6 +52,8 @@
 - default mounts based on faction, class, race, zone
 - hide RAF rewards excep on weekly basis
 - hunter target marker often conflicts with custom nameplates
+- when you rebind a key it should prompt if it overwrites something else and tells you what that is
+- introduce a 3rd party voice key to reserve it
 
 ## Chat
 - De-spam
