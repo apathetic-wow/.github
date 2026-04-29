@@ -55,6 +55,8 @@
 - when you rebind a key it should prompt if it overwrites something else and tells you what that is
 - introduce a 3rd party voice key to reserve it
 - transmog by expansion source, instance, etc.
+- search bar for the map
+- clear breadcrums for the map
 
 ## Chat
 - De-spam
