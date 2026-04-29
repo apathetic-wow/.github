@@ -58,6 +58,7 @@
 - search bar for the map
 - clear breadcrums for the map
 - platynator/nameplate health color based on type (caster, miniboss, trash)
+- rare detector symbols overwriting WQs
 
 ## Chat
 - De-spam
