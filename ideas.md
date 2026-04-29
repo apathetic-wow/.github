@@ -59,6 +59,7 @@
 - clear breadcrums for the map
 - platynator/nameplate health color based on type (caster, miniboss, trash)
 - rare detector symbols overwriting WQs
+- outfit per day
 
 ## Chat
 - De-spam
