@@ -60,6 +60,7 @@
 - platynator/nameplate health color based on type (caster, miniboss, trash)
 - rare detector symbols overwriting WQs
 - outfit per day
+- hunter pet rivive / warlock light up when can use
 
 ## Chat
 - De-spam
