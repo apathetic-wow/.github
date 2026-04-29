@@ -57,6 +57,7 @@
 - transmog by expansion source, instance, etc.
 - search bar for the map
 - clear breadcrums for the map
+- platynator/nameplate health color based on type (caster, miniboss, trash)
 
 ## Chat
 - De-spam
